@@ -1,7 +1,7 @@
 Welcome to Alike-Bot!
 ===================
 
-**alike-bot**, a chatbot based on the Microsoft Bot Framework, to suggest similar Movies, Books, TV Shows, Authors, Games, and just basically everything.
+**alike-bot**, a chatbot based on the <a href = "https://dev.botframework.com/">**Microsoft Bot Framework**</a>, to suggest similar Movies, Books, TV Shows, Authors, Games, and just basically everything.
 
 #What can it do?
 
